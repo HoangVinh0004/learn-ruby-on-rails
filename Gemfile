@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 #database postgresql
-gem 'pg', '~> 1.1'
+gem 'pg', '~> 1.5'
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.2.1", ">= 7.2.1.1"
